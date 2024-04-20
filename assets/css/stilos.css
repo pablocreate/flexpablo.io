@@ -97,7 +97,7 @@ h2 {
 
 .box2 {
     height: 600px;
-    width: 780px;
+    width: 800px;
     /*margin: 200px;*/
     display: flex;
     flex-direction: column;
